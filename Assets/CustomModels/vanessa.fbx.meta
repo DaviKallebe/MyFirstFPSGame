@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: 6e2eb34dacb00f149b5d5020abdbf4b3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: abdomenLower
+    100002: abdomenLower 1
+    100004: abdomenLower 2
+    100006: abdomenLower 3
+    100008: abdomenLower 4
+    100010: abdomenLower 5
+    100012: abdomenLower 6
+    100014: abdomenUpper
+    100016: BelowJaw
+    100018: Bonny Hair10_225009.Shape
+    100020: Bonny Hair10_225009.Shape_MeshPart0
+    100022: Bonny Hair10_225009.Shape_MeshPart1
+    100024: Bonny Hair10_225009.Shape_MeshPart2
+    100026: Bonny Hair10_225009.Shape_MeshPart3
+    100028: CenterBrow
+    100030: chestLower
+    100032: chestLower 1
+    100034: chestLower 2
+    100036: chestUpper
+    100038: Chin
+    100040: Genesis3Female
+    100042: Genesis3Female.Shape
+    100044: Gloves_8540.Shape
+    100046: head
+    100048: hip
+    100050: lBigToe
+    100052: lBigToe_2
+    100054: lBrowInner
+    100056: lBrowMid
+    100058: lBrowOuter
+    100060: lCarpal1
+    100062: lCarpal2
+    100064: lCarpal3
+    100066: lCarpal4
+    100068: lCheekLower
+    100070: lCheekUpper
+    100072: lCollar
+    100074: lEar
+    100076: lEye
+    100078: lEyelidInner
+    100080: lEyelidLower
+    100082: lEyelidLowerInner
+    100084: lEyelidLowerOuter
+    100086: lEyelidOuter
+    100088: lEyelidUpper
+    100090: lEyelidUpperInner
+    100092: lEyelidUpperOuter
+    100094: lFoot
+    100096: lForearmBend
+    100098: lForearmTwist
+    100100: lHand
+    100102: lHeel
+    100104: lIndex1
+    100106: lIndex2
+    100108: lIndex3
+    100110: LipBelow
+    100112: LipLowerMiddle
+    100114: LipUpperMiddle
+    100116: lJawClench
+    100118: lLipBelowNose
+    100120: lLipCorner
+    100122: lLipLowerInner
+    100124: lLipLowerOuter
+    100126: lLipNasolabialCrease
+    100128: lLipUpperInner
+    100130: lLipUpperOuter
+    100132: lMetatarsals
+    100134: lMid1
+    100136: lMid2
+    100138: lMid3
+    100140: lNasolabialLower
+    100142: lNasolabialMiddle
+    100144: lNasolabialMouthCorner
+    100146: lNasolabialUpper
+    100148: lNostril
+    100150: lowerFaceRig
+    100152: lowerJaw
+    100154: lowerTeeth
+    100156: lPectoral
+    100158: lPinky1
+    100160: lPinky2
+    100162: lPinky3
+    100164: lRing1
+    100166: lRing2
+    100168: lRing3
+    100170: lShin
+    100172: lShldrBend
+    100174: lShldrTwist
+    100176: lShldrTwist 1
+    100178: lShldrTwist 2
+    100180: lSmallToe1
+    100182: lSmallToe1_2
+    100184: lSmallToe2
+    100186: lSmallToe2_2
+    100188: lSmallToe3
+    100190: lSmallToe3_2
+    100192: lSmallToe4
+    100194: lSmallToe4_2
+    100196: lSquintInner
+    100198: lSquintOuter
+    100200: lThighBend
+    100202: lThighTwist
+    100204: lThighTwist 1
+    100206: lThighTwist 2
+    100208: lThighTwist 3
+    100210: lThighTwist 4
+    100212: lThumb1
+    100214: lThumb2
+    100216: lThumb3
+    100218: lToe
+    100220: MidNoseBridge
+    100222: neckLower
+    100224: neckUpper
+    100226: Nose
+    100228: Panties_1379.Shape
+    100230: pelvis
+    100232: rBigToe
+    100234: rBigToe_2
+    100236: rBrowInner
+    100238: rBrowMid
+    100240: rBrowOuter
+    100242: rCarpal1
+    100244: rCarpal2
+    100246: rCarpal3
+    100248: rCarpal4
+    100250: rCheekLower
+    100252: rCheekUpper
+    100254: rCollar
+    100256: rEar
+    100258: rEye
+    100260: rEyelidInner
+    100262: rEyelidLower
+    100264: rEyelidLowerInner
+    100266: rEyelidLowerOuter
+    100268: rEyelidOuter
+    100270: rEyelidUpper
+    100272: rEyelidUpperInner
+    100274: rEyelidUpperOuter
+    100276: rFoot
+    100278: rForearmBend
+    100280: rForearmTwist
+    100282: rHand
+    100284: rHeel
+    100286: rIndex1
+    100288: rIndex2
+    100290: rIndex3
+    100292: rJawClench
+    100294: rLipBelowNose
+    100296: rLipCorner
+    100298: rLipLowerInner
+    100300: rLipLowerOuter
+    100302: rLipNasolabialCrease
+    100304: rLipUpperInner
+    100306: rLipUpperOuter
+    100308: rMetatarsals
+    100310: rMid1
+    100312: rMid2
+    100314: rMid3
+    100316: rNasolabialLower
+    100318: rNasolabialMiddle
+    100320: rNasolabialMouthCorner
+    100322: rNasolabialUpper
+    100324: rNostril
+    100326: rPectoral
+    100328: rPinky1
+    100330: rPinky2
+    100332: rPinky3
+    100334: rRing1
+    100336: rRing2
+    100338: rRing3
+    100340: rShin
+    100342: rShldrBend
+    100344: rShldrTwist
+    100346: rShldrTwist 1
+    100348: rShldrTwist 2
+    100350: rSmallToe1
+    100352: rSmallToe1_2
+    100354: rSmallToe2
+    100356: rSmallToe2_2
+    100358: rSmallToe3
+    100360: rSmallToe3_2
+    100362: rSmallToe4
+    100364: rSmallToe4_2
+    100366: rSquintInner
+    100368: rSquintOuter
+    100370: rThighBend
+    100372: rThighTwist
+    100374: rThighTwist 1
+    100376: rThighTwist 2
+    100378: rThighTwist 3
+    100380: rThighTwist 4
+    100382: rThumb1
+    100384: rThumb2
+    100386: rThumb3
+    100388: rToe
+    100390: Skates_42250.Shape
+    100392: Skates_42250.Shape_MeshPart0
+    100394: Skates_42250.Shape_MeshPart1
+    100396: Skirt_25611.Shape
+    100398: Stockings_20321.Shape
+    100400: tongue01
+    100402: tongue02
+    100404: tongue03
+    100406: tongue04
+    100408: Top_7927.Shape
+    100410: upperFaceRig
+    100412: upperTeeth
+    100414: //RootNode
+    400000: abdomenLower
+    400002: abdomenLower 1
+    400004: abdomenLower 2
+    400006: abdomenLower 3
+    400008: abdomenLower 4
+    400010: abdomenLower 5
+    400012: abdomenLower 6
+    400014: abdomenUpper
+    400016: BelowJaw
+    400018: Bonny Hair10_225009.Shape
+    400020: Bonny Hair10_225009.Shape_MeshPart0
+    400022: Bonny Hair10_225009.Shape_MeshPart1
+    400024: Bonny Hair10_225009.Shape_MeshPart2
+    400026: Bonny Hair10_225009.Shape_MeshPart3
+    400028: CenterBrow
+    400030: chestLower
+    400032: chestLower 1
+    400034: chestLower 2
+    400036: chestUpper
+    400038: Chin
+    400040: Genesis3Female
+    400042: Genesis3Female.Shape
+    400044: Gloves_8540.Shape
+    400046: head
+    400048: hip
+    400050: lBigToe
+    400052: lBigToe_2
+    400054: lBrowInner
+    400056: lBrowMid
+    400058: lBrowOuter
+    400060: lCarpal1
+    400062: lCarpal2
+    400064: lCarpal3
+    400066: lCarpal4
+    400068: lCheekLower
+    400070: lCheekUpper
+    400072: lCollar
+    400074: lEar
+    400076: lEye
+    400078: lEyelidInner
+    400080: lEyelidLower
+    400082: lEyelidLowerInner
+    400084: lEyelidLowerOuter
+    400086: lEyelidOuter
+    400088: lEyelidUpper
+    400090: lEyelidUpperInner
+    400092: lEyelidUpperOuter
+    400094: lFoot
+    400096: lForearmBend
+    400098: lForearmTwist
+    400100: lHand
+    400102: lHeel
+    400104: lIndex1
+    400106: lIndex2
+    400108: lIndex3
+    400110: LipBelow
+    400112: LipLowerMiddle
+    400114: LipUpperMiddle
+    400116: lJawClench
+    400118: lLipBelowNose
+    400120: lLipCorner
+    400122: lLipLowerInner
+    400124: lLipLowerOuter
+    400126: lLipNasolabialCrease
+    400128: lLipUpperInner
+    400130: lLipUpperOuter
+    400132: lMetatarsals
+    400134: lMid1
+    400136: lMid2
+    400138: lMid3
+    400140: lNasolabialLower
+    400142: lNasolabialMiddle
+    400144: lNasolabialMouthCorner
+    400146: lNasolabialUpper
+    400148: lNostril
+    400150: lowerFaceRig
+    400152: lowerJaw
+    400154: lowerTeeth
+    400156: lPectoral
+    400158: lPinky1
+    400160: lPinky2
+    400162: lPinky3
+    400164: lRing1
+    400166: lRing2
+    400168: lRing3
+    400170: lShin
+    400172: lShldrBend
+    400174: lShldrTwist
+    400176: lShldrTwist 1
+    400178: lShldrTwist 2
+    400180: lSmallToe1
+    400182: lSmallToe1_2
+    400184: lSmallToe2
+    400186: lSmallToe2_2
+    400188: lSmallToe3
+    400190: lSmallToe3_2
+    400192: lSmallToe4
+    400194: lSmallToe4_2
+    400196: lSquintInner
+    400198: lSquintOuter
+    400200: lThighBend
+    400202: lThighTwist
+    400204: lThighTwist 1
+    400206: lThighTwist 2
+    400208: lThighTwist 3
+    400210: lThighTwist 4
+    400212: lThumb1
+    400214: lThumb2
+    400216: lThumb3
+    400218: lToe
+    400220: MidNoseBridge
+    400222: neckLower
+    400224: neckUpper
+    400226: Nose
+    400228: Panties_1379.Shape
+    400230: pelvis
+    400232: rBigToe
+    400234: rBigToe_2
+    400236: rBrowInner
+    400238: rBrowMid
+    400240: rBrowOuter
+    400242: rCarpal1
+    400244: rCarpal2
+    400246: rCarpal3
+    400248: rCarpal4
+    400250: rCheekLower
+    400252: rCheekUpper
+    400254: rCollar
+    400256: rEar
+    400258: rEye
+    400260: rEyelidInner
+    400262: rEyelidLower
+    400264: rEyelidLowerInner
+    400266: rEyelidLowerOuter
+    400268: rEyelidOuter
+    400270: rEyelidUpper
+    400272: rEyelidUpperInner
+    400274: rEyelidUpperOuter
+    400276: rFoot
+    400278: rForearmBend
+    400280: rForearmTwist
+    400282: rHand
+    400284: rHeel
+    400286: rIndex1
+    400288: rIndex2
+    400290: rIndex3
+    400292: rJawClench
+    400294: rLipBelowNose
+    400296: rLipCorner
+    400298: rLipLowerInner
+    400300: rLipLowerOuter
+    400302: rLipNasolabialCrease
+    400304: rLipUpperInner
+    400306: rLipUpperOuter
+    400308: rMetatarsals
+    400310: rMid1
+    400312: rMid2
+    400314: rMid3
+    400316: rNasolabialLower
+    400318: rNasolabialMiddle
+    400320: rNasolabialMouthCorner
+    400322: rNasolabialUpper
+    400324: rNostril
+    400326: rPectoral
+    400328: rPinky1
+    400330: rPinky2
+    400332: rPinky3
+    400334: rRing1
+    400336: rRing2
+    400338: rRing3
+    400340: rShin
+    400342: rShldrBend
+    400344: rShldrTwist
+    400346: rShldrTwist 1
+    400348: rShldrTwist 2
+    400350: rSmallToe1
+    400352: rSmallToe1_2
+    400354: rSmallToe2
+    400356: rSmallToe2_2
+    400358: rSmallToe3
+    400360: rSmallToe3_2
+    400362: rSmallToe4
+    400364: rSmallToe4_2
+    400366: rSquintInner
+    400368: rSquintOuter
+    400370: rThighBend
+    400372: rThighTwist
+    400374: rThighTwist 1
+    400376: rThighTwist 2
+    400378: rThighTwist 3
+    400380: rThighTwist 4
+    400382: rThumb1
+    400384: rThumb2
+    400386: rThumb3
+    400388: rToe
+    400390: Skates_42250.Shape
+    400392: Skates_42250.Shape_MeshPart0
+    400394: Skates_42250.Shape_MeshPart1
+    400396: Skirt_25611.Shape
+    400398: Stockings_20321.Shape
+    400400: tongue01
+    400402: tongue02
+    400404: tongue03
+    400406: tongue04
+    400408: Top_7927.Shape
+    400410: upperFaceRig
+    400412: upperTeeth
+    400414: //RootNode
+    4300000: Genesis3Female.Shape
+    4300002: Bonny Hair10_225009.Shape_MeshPart0
+    4300004: Bonny Hair10_225009.Shape_MeshPart1
+    4300006: Bonny Hair10_225009.Shape_MeshPart2
+    4300008: Bonny Hair10_225009.Shape_MeshPart3
+    4300010: Panties_1379.Shape
+    4300012: Skirt_25611.Shape
+    4300014: Stockings_20321.Shape
+    4300016: Top_7927.Shape
+    4300018: Gloves_8540.Shape
+    4300020: Skates_42250.Shape_MeshPart0
+    4300022: Skates_42250.Shape_MeshPart1
+    9500000: //RootNode
+    13700000: Bonny Hair10_225009.Shape_MeshPart0
+    13700002: Bonny Hair10_225009.Shape_MeshPart1
+    13700004: Bonny Hair10_225009.Shape_MeshPart2
+    13700006: Bonny Hair10_225009.Shape_MeshPart3
+    13700008: Genesis3Female.Shape
+    13700010: Gloves_8540.Shape
+    13700012: Panties_1379.Shape
+    13700014: Skates_42250.Shape_MeshPart0
+    13700016: Skates_42250.Shape_MeshPart1
+    13700018: Skirt_25611.Shape
+    13700020: Stockings_20321.Shape
+    13700022: Top_7927.Shape
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arms
+    second: {fileID: 2100000, guid: 076531d1d69c3934e96d3b28d84309d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cornea
+    second: {fileID: 2100000, guid: dfe2ed015a631264ebfd1762cb7f0dde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ears
+    second: {fileID: 2100000, guid: c9b6fc9bc7110ab4ab203ee18cb9e4b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeMoisture
+    second: {fileID: 2100000, guid: 465804fa8eb8b704e930b82c62d0494e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeSocket
+    second: {fileID: 2100000, guid: c9b6fc9bc7110ab4ab203ee18cb9e4b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyelashes
+    second: {fileID: 2100000, guid: ecbbbe4b6aec00d4a9cfe0f778ec640f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face
+    second: {fileID: 2100000, guid: d624428b17728a7439feff1e93a31785, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fingernails
+    second: {fileID: 2100000, guid: a1420f84bdc325d41aef8ea821c13949, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Inside
+    second: {fileID: 2100000, guid: e2f3b672b81bdf241b08675ccd406ab2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Irises
+    second: {fileID: 2100000, guid: dfe2ed015a631264ebfd1762cb7f0dde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftAdditionalHardware
+    second: {fileID: 2100000, guid: 4604c109e194e76419c7845d03a72300, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftAxles
+    second: {fileID: 2100000, guid: bc64fc425e648c54287725464f75a33e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftBearings
+    second: {fileID: 2100000, guid: 404a5b40db8da2346ad719440f017a55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftBrake
+    second: {fileID: 2100000, guid: c3e8eeaf987b67741a4ca7020a0abde0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftBushings
+    second: {fileID: 2100000, guid: 899ec40e8e6044948aa392c22bb9a697, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftFingerTips
+    second: {fileID: 2100000, guid: 8c65b85f1c05e4443acd1be96e87a751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftGloveWrist
+    second: {fileID: 2100000, guid: 47ab89761c4bf7445a03e1618179e401, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftHeelPad
+    second: {fileID: 2100000, guid: abbe37b354af97543852353919d55a92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftLaces
+    second: {fileID: 2100000, guid: 48f3b79c731a1734a978f4fb686362df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftMainGlove
+    second: {fileID: 2100000, guid: 8c65b85f1c05e4443acd1be96e87a751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftMainSkate
+    second: {fileID: 2100000, guid: 3d9a2600f16f0774f83acc675188f061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftShocks
+    second: {fileID: 2100000, guid: 6e81eb54bbf7fc4478323bb12fc4cade, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftSideStraps
+    second: {fileID: 2100000, guid: 875b7e68a3aace44c80acafd53414162, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftSole
+    second: {fileID: 2100000, guid: be26515ec0f1f01419b4cef7b72e0578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftTongue
+    second: {fileID: 2100000, guid: dab956601da3219448d4b961a6139713, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftTopPads
+    second: {fileID: 2100000, guid: 6fcdba47e0199764babc10080ef4077c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftTopSkateTrim
+    second: {fileID: 2100000, guid: 75560720f9476724fb4a024f0a4b4fb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftTopStrap
+    second: {fileID: 2100000, guid: b709bdfa7f8f7da42b142c998dc0837c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeftWheels
+    second: {fileID: 2100000, guid: 1cda9da349d6eec4f87b8d462ab6ac17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Legs
+    second: {fileID: 2100000, guid: a55e8dfe6a70c8f4ab64eac3cfb6485c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lips
+    second: {fileID: 2100000, guid: c9b6fc9bc7110ab4ab203ee18cb9e4b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Middle01
+    second: {fileID: 2100000, guid: e2f3b672b81bdf241b08675ccd406ab2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Middle02
+    second: {fileID: 2100000, guid: e2f3b672b81bdf241b08675ccd406ab2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mouth
+    second: {fileID: 2100000, guid: c0c188f3b86a3d041bd18bd447e2cb00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outside01
+    second: {fileID: 2100000, guid: e2f3b672b81bdf241b08675ccd406ab2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outside02
+    second: {fileID: 2100000, guid: e2f3b672b81bdf241b08675ccd406ab2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Panties
+    second: {fileID: 2100000, guid: 9a1651cedee52e443921366574c0e16f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pleats
+    second: {fileID: 2100000, guid: 330dc661722df114a963d5f276fdcb6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pupils
+    second: {fileID: 2100000, guid: dfe2ed015a631264ebfd1762cb7f0dde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightAdditionalHardware
+    second: {fileID: 2100000, guid: 7b8b2a506befa84469bb11ba4f3e8630, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightAxles
+    second: {fileID: 2100000, guid: d4722c956644dde488515bb39d48c95d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightBearings
+    second: {fileID: 2100000, guid: cae3054c400e48244adfcecb52b8d6d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightBrake
+    second: {fileID: 2100000, guid: ad02b472d934bc943a583197ad43cabc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightBushings
+    second: {fileID: 2100000, guid: 1d456db451a5885479bccbc4d92ea183, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightFingerTips
+    second: {fileID: 2100000, guid: 449fcde25f904c248bc9375d5f7c20bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightGloveWrist
+    second: {fileID: 2100000, guid: 67c1fd5ed024dd6468889fb824be2ea6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightHeelPad
+    second: {fileID: 2100000, guid: 81bdbe99d0003b9479f5b89a6253de98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightLaces
+    second: {fileID: 2100000, guid: 94c68d417a5996845bb45c7ee0ae8106, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightMainGlove
+    second: {fileID: 2100000, guid: 449fcde25f904c248bc9375d5f7c20bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightMainSkate
+    second: {fileID: 2100000, guid: 71bc1c51cc536b34783e25b46319d40d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightShocks
+    second: {fileID: 2100000, guid: dcd657ca7a0cf8343a670b1bd2263498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightSideStraps
+    second: {fileID: 2100000, guid: 9a2d756545577f44486def991087158f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightSole
+    second: {fileID: 2100000, guid: 18f4a722db0f6854fa64e847c6a71be8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightTongue
+    second: {fileID: 2100000, guid: e31dad378ab1f4c45a5fd0057346c4b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightTopPads
+    second: {fileID: 2100000, guid: 8cdb637c285560a47b001308c7581605, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightTopSkateTrim
+    second: {fileID: 2100000, guid: 625bfb4a5fafd914b8a1dfcb64ba8fe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightTopStrap
+    second: {fileID: 2100000, guid: 24415f1f6efdd384fa1b3aa76bb8fa19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RightWheels
+    second: {fileID: 2100000, guid: 774a2ec7fb092094b99916b818c1963a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scalp
+    second: {fileID: 2100000, guid: 9c8d912f9ba3e8645a0100b4ef5a973b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sclera
+    second: {fileID: 2100000, guid: dfe2ed015a631264ebfd1762cb7f0dde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stockings
+    second: {fileID: 2100000, guid: 380831fafcd63d04cb40e7c525d07d5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teeth
+    second: {fileID: 2100000, guid: c0c188f3b86a3d041bd18bd447e2cb00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toenails
+    second: {fileID: 2100000, guid: a55e8dfe6a70c8f4ab64eac3cfb6485c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Top
+    second: {fileID: 2100000, guid: 54641b378bbe1354a9edcaa4269f92c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torso
+    second: {fileID: 2100000, guid: 465efe49e5e2e224fb96cc32470e2909, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Waistband
+    second: {fileID: 2100000, guid: 330dc661722df114a963d5f276fdcb6a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
